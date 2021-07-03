@@ -7,7 +7,7 @@
 ## Descripción:
 > Este repositorio contiene una una pagina, una hoja de estilos y un archivo .js para menejar la interaccion y controlar la logica del juego
 ## Objetivo: 
-> Realizar porner a prueba los conocimientos de JS armando un pequeño juego
+> Poner a prueba los conocimientos de JS armando un pequeño juego
 ## Desarrollado por:
 | Linkedin | Repositorio |
 | -------  | ------- |
