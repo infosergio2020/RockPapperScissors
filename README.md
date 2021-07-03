@@ -1,4 +1,7 @@
-# RockPapperScissors
+<h1 align="center"> 
+ RockPapperScissors
+<img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JS logo"></a></h1>
+
 ## Estado del proyecto:
 > En Terminado.
 ## Descripción:
